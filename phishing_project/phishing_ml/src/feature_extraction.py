@@ -1,0 +1,1 @@
+def extract_features(url): return {'url_length': len(url)}
